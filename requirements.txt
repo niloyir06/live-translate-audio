@@ -1,0 +1,4 @@
+soundcard
+faster-whisper
+ctranslate2
+argostranslate
